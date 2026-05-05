@@ -3,8 +3,8 @@ import sqlite3
 from werkzeug.security import generate_password_hash, check_password_hash
 
 ADMIN = {
-    "username": "johncarlo",
-    "password": "cupida"
+    "username": "1234",
+    "password": "1234"
 }
 
 app = Flask(__name__)
